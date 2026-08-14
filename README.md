@@ -6,3 +6,5 @@
 * Red teaming - offensive cybersecurity with an emphasis on social engineering
 * Coding - Python, my first, only, and preferred language
 
+### You can contact me here: teamleadertrue@gmail.com 
+### Wanna know more about me? Visit my Hugging Face account: https://huggingface.co/Ahmad170412
