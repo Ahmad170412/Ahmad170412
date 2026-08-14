@@ -33,6 +33,9 @@
 > 
 > **TL;DR:** Use AI as a regular engineer, while you graduate to an architect and tester.
 
-![TeamLeader's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad170412&show_icons=true&theme=dark)
+### When I'm not coding:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad170412&layout=compact&theme=dark)
+- Reading 
+- Rewatching Star Wars for the 47th time (Prequels > OT, fight me)
+- Watching videos about AI and social engineering
+- Tinkering with LoRA & QLoRA adapters
