@@ -8,3 +8,11 @@
 
 ### You can contact me here: teamleadertrue@gmail.com 
 ### Wanna know more about me? Visit my Hugging Face account: https://huggingface.co/Ahmad170412
+
+#### Here are a few tech opinions I stand by:
+
+**Small Language Models** like Qwen 2.5 3B or Llama 3.2 3B are the *future* of AI. 
+I believe that the future of AI lies in smaller, more efficient models that specialize 
+in certain topics rather than big, multi-trillion parameter models that function as 
+*"Jacks of all trades, masters at none."*
+
